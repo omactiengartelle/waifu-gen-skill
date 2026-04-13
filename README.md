@@ -66,3 +66,13 @@ Returns a direct image URL.
 | `tall` | 704 | 1408 |
 
 This skill requires a Neta API token (free trial available at https://www.neta.art/open/).
+
+## Example Output
+
+```bash
+node waifugen.js "anime waifu character, beautiful illustration, detailed artwork"
+```
+
+![Example output](https://oss.talesofai.cn/picture/4b911823-69bf-4c25-b361-26fe0f279c81.webp)
+
+> Prompt: *"anime waifu character, beautiful illustration, detailed artwork"*
